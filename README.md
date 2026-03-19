@@ -30,26 +30,6 @@ available  : Open to Collaborations & Freelance Projects
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=0ea5e9&bar_color_cover=false" />
-  </a>
-</div>
-
-> ⚠️ **Setup needed:** `YOUR_SPOTIFY_UID` ko apne Spotify User ID se replace karo. Steps neeche hain 👇
-
----
-
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
@@ -105,33 +85,13 @@ available  : Open to Collaborations & Freelance Projects
 
 ---
 
-## 🐍 Snake eating my Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tabrez5/Tabrez5/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> ⚠️ **Setup needed:** GitHub Actions workflow banana padega. Steps neeche hain 👇
-
----
-
-## 🌍 Visitor Map
-
-<div align="center">
-  <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=YOUR_CLUSTRMAP_ID&co=1a1b27&ct=ffffff" />
-</div>
-
-> ⚠️ **Setup needed:** `YOUR_CLUSTRMAP_ID` replace karna padega. Steps neeche hain 👇
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-akhtar-3726a228a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tabrez5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tabrezakhtar39@gmail.com)
 
 </div>
 
